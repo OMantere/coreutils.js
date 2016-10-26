@@ -30,7 +30,7 @@
     "dir": "bin/dir.js",
     "dirname": "bin/dirname.js",
     "echo": "bin/echo.js",
-    "env": "node_modules/.bin/env",
+    "env": "../../node_modules/.bin/env",
     "grep": "bin/grep.js",
     "head": "bin/head.js",
     "hostname": "bin/hostname.js",
